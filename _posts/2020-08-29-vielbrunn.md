@@ -1,13 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
-#permalink:
 title: 'Verwandtenbesuch mit dem Segelflugzeug'
+categories: Segelfliegen
 ---
 Meine Schwester wohnt in Klingenberg am Main, eine wunderschöne Weltgegend, die nicht zuletzt hervorragende Weine zu bieten hat.  Mit dem notwendigen Umweg um München herum sind das im Segelflugzeug knapp 400km Strecke.  Eigentlich ein Katzensprung, aber wenn man an einem Tag hin und am nächsten zurückfliegen möchte, dann muss das Wetter an zwei Tagen hintereinander passen. Da man der geplagten Verwandtschaft auch noch einigen logistischen Aufwand bereitet, scheint es fair, ein Wochenende zu nutzen.
 
