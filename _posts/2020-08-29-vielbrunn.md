@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Verwandtenbesuch mit dem Segelflugzeug'
+title: 'Zur Verwandtschaft mit dem Segelflugzeug'
 categories: Segelfliegen
 ---
-Meine Schwester wohnt in Klingenberg am Main, eine wunderschöne Weltgegend, die nicht zuletzt hervorragende Weine zu bieten hat.  Mit dem notwendigen Umweg um München herum sind das im Segelflugzeug knapp 400km Strecke.  Eigentlich ein Katzensprung, aber wenn man an einem Tag hin und am nächsten zurückfliegen möchte, dann muss das Wetter an zwei Tagen hintereinander passen. Da man der geplagten Verwandtschaft auch noch einigen logistischen Aufwand bereitet, scheint es fair, ein Wochenende zu nutzen.
+Meine Schwester wohnt in Klingenberg am Main, eine wunderschöne Weltgegend, die nicht zuletzt hervorragende Weine zu bieten hat.  Mit dem notwendigen Umweg um München herum sind das von Unterwössen knapp 400km Flugstrecke.  Das müsste mit dem Segelflugzeug machbar sein, wenn man nur ein Wochenende findet, an denen das Wetter an beiden Tagen mitspielt. Anfang August war es so weit. 
 
-Anfang August ist es dann so weit. Die Vorhersage für die Alpen ist mäßig, für die Flachlandstrecke dafür vielversprechend, am Sonntag sogar etwas besser als am Samstag.  Wenn ich es hin schaffe, sollte es auch zurück reichen. Mainbullau, der Verkehrslandeplatz in der Nachbarschaft, ist leider für Segelflugzeuge nur bedingt geeignet.  Eine 20m breite Bahn mit Befeuerungslampen am Rand ist für einen 18m-Flieger eine riskante Angelegenheit.
+Die Vorhersage für die Alpen ist mäßig, für die Flachlandstrecke dafür vielversprechend, am Sonntag sogar etwas besser als am Samstag.  Wenn ich es hin schaffe, sollte es auch zurück reichen. Mainbullau, der Verkehrslandeplatz in der Nachbarschaft, ist leider für Segelflugzeuge nur bedingt geeignet.  Eine 20m breite Bahn mit Befeuerungslampen am Rand ist für einen 18m-Flieger eine riskante Angelegenheit.
 
 ![Segelfluggelände Vielbrunn im Odenwald](/assets/IMG_20200808_165149.jpg)
 
