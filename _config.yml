@@ -18,6 +18,8 @@ description: >-
   Gedanken und Geschichten über's Segelfliegen.
 baseurl: "/"
 url: "https://mathias-muench.github.io/"
+
+author: Mathias Münch
 github_username:  mathias-muench
 
 # Build settings
