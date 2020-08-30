@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mathias Münchs Weblog
 description: >-
-  Gedanken und Geschichten über all die Dinge, mit denen ich meine Zeit verbringe.
+  Geschichten über all die Dinge, mit denen ich meine Zeit verbringe.
 baseurl: "/"
 url: "https://mathias-muench.github.io/"
 
