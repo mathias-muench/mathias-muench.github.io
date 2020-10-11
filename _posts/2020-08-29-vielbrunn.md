@@ -45,5 +45,5 @@ Was bleibt ist:
 
 ## Flugwege auf [SkyLines](https://skylines.aero/flights/latest)
 
-* [392 km am 08.08.2020 von Mathias Muench | SkyLines](https://skylines.aero/flights/124659)
-* [365 km am 09.08.2020 von Mathias Muench | SkyLines](https://skylines.aero/flights/124880)
+* [392 km am 08.08.2020 von Mathias Muench - SkyLines](https://skylines.aero/flights/124659)
+* [365 km am 09.08.2020 von Mathias Muench - SkyLines](https://skylines.aero/flights/124880)
