@@ -17,7 +17,7 @@ Die Thermik ist gut entwickelt, der Streifen zwischen Gipfeln und Wolken aber no
 
 Problemlos geht es an Memmingen vorbei bis zum Donautal. Hier ist dann tatsächlich ein markantes blaues Loch und die Querung verbraucht einiges an Höhe. Aber die ersten Wolken auf der anderen Talseite empfangen mich mit zuverlässigem Steigen.
 
-Ab jetzt kann man gar nicht mehr so schnell folgen, wie die Bedingungen besser werden. Von Wolke zu Wolke immer bessere Steigwerte, immer höhere Basis. Schon bei Schwäbisch-Hall bin ich in Endanflughöhe. Die Schwester hat den Flugweg im Live-Tracking auf skylines.aero verfolgt und macht sich auf den Weg zum Flugplatz.
+Ab jetzt kann man gar nicht mehr so schnell folgen, wie die Bedingungen besser werden. Von Wolke zu Wolke immer bessere Steigwerte, immer höhere Basis. Schon bei Schwäbisch-Hall bin ich in Endanflughöhe. Die Schwester hat den Flugweg im [Live-Tracking auf skylines.aero](https://skylines.aero/tracking) verfolgt und macht sich auf den Weg zum Flugplatz.
 
 Vielbrunn empfängt den Übernachtungsgast freundlich im Funk. Direkt am Bahnende beginnt der Wald, weshalb es nur eine Landerichtung gibt, heute durchaus mit steifem Rückenwind. Aber die Bahn ist lang und ansteigend, kein Problem genau am Bahnende auszurollen.
 
@@ -42,3 +42,8 @@ Was bleibt ist:
 - wieder mal die Erkenntnis, was für ein unglaubliches Gefühl es ist, im Segelflug "irgendwo hin" zu fliegen, statt abends wieder da zu landen, wo man am Morgen gestartet ist.
 - Dankbarkeit gegenüber Familie und Gastflugplatz, die bereit sind, solche spinnerten Ideen mit einigem Zusatzaufwand zu unterstützen.
 - und eine nicht ganz ernst gemeinte, aber trotzdem interessante Rechnung: Für eine Straßenentfernung von über 400 km (einfache Strecke) wurden zwei Liter "Super Bleifrei" verbraucht, also 0,5 Liter auf 100 km. Dazu kommt ein Flächenbedarf von 20 mal 500 Metern unversiegeltem Magerrasen im Vergleich zu 400 km dreispurigem Asphalt. Ein so autonomes Flugzeug wie die DG800 macht das Ganze zu einer durchaus kalkulierbaren Unternehmung (Abenteuer sind bekanntermaßen immer erst hinterher schön...). Vielleicht hat Reisen mit dem Segelflugzeug im Angesicht des Klimawandels doch eine Zukunft. 
+
+## Flugwege auf [SkyLines](https://skylines.aero/flights/latest)
+
+* [392 km am 08.08.2020 von Mathias Muench | SkyLines](https://skylines.aero/flights/124659)
+* [365 km am 09.08.2020 von Mathias Muench | SkyLines](https://skylines.aero/flights/124880)
