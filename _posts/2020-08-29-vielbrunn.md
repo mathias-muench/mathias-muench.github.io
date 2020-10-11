@@ -43,7 +43,7 @@ Was bleibt ist:
 - Dankbarkeit gegenüber Familie und Gastflugplatz, die bereit sind, solche spinnerten Ideen mit einigem Zusatzaufwand zu unterstützen.
 - und eine nicht ganz ernst gemeinte, aber trotzdem interessante Rechnung: Für eine Straßenentfernung von über 400 km (einfache Strecke) wurden zwei Liter "Super Bleifrei" verbraucht, also 0,5 Liter auf 100 km. Dazu kommt ein Flächenbedarf von 20 mal 500 Metern unversiegeltem Magerrasen im Vergleich zu 400 km dreispurigem Asphalt. Ein so autonomes Flugzeug wie die DG800 macht das Ganze zu einer durchaus kalkulierbaren Unternehmung (Abenteuer sind bekanntermaßen immer erst hinterher schön...). Vielleicht hat Reisen mit dem Segelflugzeug im Angesicht des Klimawandels doch eine Zukunft. 
 
-## Flugwege auf [SkyLines](https://skylines.aero/flights/latest)
+## Flugwege auf [SkyLines](https://skylines.aero/flights/pilot/732)
 
 * [392 km am 08.08.2020 von Mathias Muench - SkyLines](https://skylines.aero/flights/124659)
 * [365 km am 09.08.2020 von Mathias Muench - SkyLines](https://skylines.aero/flights/124880)
