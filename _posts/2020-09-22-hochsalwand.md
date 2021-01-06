@@ -14,7 +14,7 @@ published: true
 
 Pünktlich zum Urlaubsbeginn wird natürlich das Wetter unbeständig. Also gilt es,
 die verbleibenden schönen Tage auszunutzen. Die Hochsalwand stand schon oft auf
-dem Plan, dieses Mal ist es so weit. Allerdings ist der Anstieg
+dem Plan, dieses Mal soll es so weit sein. Allerdings ist der Anstieg
 aus dem Tal ein Riesenhatscher, es wäre schön, das ein wenig aufzuteilen.
 
 Die Breitenberghütte verspricht, die ersten 600 Höhenmeter und die erste
