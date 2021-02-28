@@ -151,5 +151,5 @@ Anmerkungen:
 ## Anhang
 
 Beispiel-Aufgaben sind verfügbar in [WeGlide \|
-Aufgaben](/assets/https://weglide.org/task/explore?order_by=-stars)
+Aufgaben](https://weglide.org/task/explore?order_by=-stars)
 unter "AFZ-Streckenflug-210227".
