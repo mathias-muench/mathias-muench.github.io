@@ -62,7 +62,7 @@ Anmerkungen:
 Zum Beispiel:
 
 :   -   Timmersdorf -- Spitzegel -- Sterzing: 610 km
-    -   Turnau -- Spitzegel -- Köpfelplatte: 788 km
+    -   Turnau -- Spitzegel -- Köpflplatte: 788 km
 
 Anmerkungen:
 
