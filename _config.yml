@@ -45,3 +45,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+
+lang: de
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: de
+  -
+    scope:
+      path: en
+    values:
+      lang: en
