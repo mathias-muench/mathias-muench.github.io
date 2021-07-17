@@ -1,3 +1,3 @@
 ---
-redirect_to: /de/
+redirect_to: de/
 ---

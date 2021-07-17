@@ -53,7 +53,7 @@ lang: de
 defaults:
   -
     scope:
-      path: ""
+      path: de
     values:
       lang: de
   -
